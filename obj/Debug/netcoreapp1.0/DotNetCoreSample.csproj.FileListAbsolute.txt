@@ -1,0 +1,5 @@
+C:\Users\Liting Su\Documents\GitHub\DotNetCoreSample\bin\Debug\netcoreapp1.0\DotNetCoreSample.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCoreSample\bin\Debug\netcoreapp1.0\DotNetCoreSample.pdb
+C:\Users\Liting Su\Documents\GitHub\DotNetCoreSample\obj\Debug\netcoreapp1.0\DotNetCoreSample.AssemblyInfo.cs
+C:\Users\Liting Su\Documents\GitHub\DotNetCoreSample\obj\Debug\netcoreapp1.0\DotNetCoreSample.dll
+C:\Users\Liting Su\Documents\GitHub\DotNetCoreSample\obj\Debug\netcoreapp1.0\DotNetCoreSample.pdb
